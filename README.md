@@ -12,4 +12,4 @@
 
 ## Running allure server
 
-    * Navigate to project directory and run 'appium serve'
+    * Navigate to project directory and run 'allure serve'
