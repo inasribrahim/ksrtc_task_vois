@@ -8,7 +8,7 @@
 
 ## Running tests through command line  
 
-    * Navigate to project directory and run 'mvn clean test'
+    * Navigate to project directory and run 'mvn clean install'
 
 ## Running allure server
 
